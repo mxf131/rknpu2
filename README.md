@@ -1,4 +1,5 @@
 # rknpu2
+# rk3588s c/c++ camera orangepi 5
 ## rknpu2 easy use in rk3588 on linux platform.
 ### Ensure that your environment is configured correctly
 

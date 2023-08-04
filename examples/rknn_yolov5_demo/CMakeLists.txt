@@ -41,7 +41,6 @@ set(ZLMEDIAKIT_LIBS ${ZLMEDIAKIT_PATH}/${LIB_ARCH}/libmk_api.so)
 
 add_definitions(-DBUILD_VIDEO_RTSP)
 
-set(CMAKE_INSTALL_RPATH "lib")
 # rknn_yolov5_demo
 include_directories( ${CMAKE_SOURCE_DIR}/include)
 add_executable(rknn_yolov5_demo
